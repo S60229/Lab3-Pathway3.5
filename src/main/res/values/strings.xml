@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_surname">Niesha Faez</string>
+    <string name="business">Mobile Application Developer</string>
+    <string name="phone_number">+6019 610 7375</string>
+    <string name="email_text">niesha@gmail.com</string>
+    <string name="share_text">niesha@github.com</string>
+</resources>
